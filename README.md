@@ -1,2 +1,2 @@
 # hello-world
-I am from China!
+Just another repository
